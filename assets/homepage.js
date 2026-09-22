@@ -1,0 +1,2 @@
+﻿$('.hotproduct').after($('.home-quality'))
+function homeCaseSwiper(){if($("#homecase").length){var homecase=new Swiper("#homecase",{slidesPerView:1,spaceBetween:0,pagination:".homecase-pagination",paginationClickable:!0,})}}homeCaseSwiper();a
